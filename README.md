@@ -31,7 +31,7 @@ db = os.getenv('DB_NAME')
 -   Create a .env file in your project folder:
 ```ini
 DB_USER=jusgowiturs
-DB_PASS=fire4Yoga@2025
+DB_PASS=*************// Replace * with you passcode
 DB_HOST=localhost
 DB_NAME=testdb
 ```
